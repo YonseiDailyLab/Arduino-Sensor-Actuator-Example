@@ -1,5 +1,5 @@
 /**
-TRM-121A Manual
+TRM-121A Example
 Description: TRM-121A Digital Radar Module example.
              This example is a code that detects the speed of an object.
 
